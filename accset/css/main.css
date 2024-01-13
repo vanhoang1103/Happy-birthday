@@ -129,4 +129,10 @@
     display: block;
 }
 
+.img_footer {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+
 
