@@ -35,7 +35,7 @@
     display: inline-block;
     position: absolute;
     width: 40%;
-    top: -25%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -43,7 +43,7 @@
 .modal_icon {
     right: 12%;
     position: absolute;
-    top: -47%;
+    top: 3%;
     z-index: 3;
     font-size: 2rem;
 }
