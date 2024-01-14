@@ -1,7 +1,7 @@
-var red = document.querySelector('.chucmung')
-setInterval(() => {
-    red.classList.toggle('red')
-}, 100);
+// var red = document.querySelector('.chucmung')
+// setInterval(() => {
+//     red.classList.toggle('red')
+// }, 100);
 
 // Phần xem lời chúc 1
 const opens = document.querySelectorAll('.js-content')
